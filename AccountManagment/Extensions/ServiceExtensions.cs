@@ -153,10 +153,10 @@ namespace AccountManagment.Extensions
                         Url = new Uri("https://example.com/license"),
                     },
                     License = new OpenApiLicense
-                    {
-                        Name = "AccountManagment API LICX",
-                        Url = new Uri("https://oakfnd.org/coding-dreams/"),
-                    }
+{
+    Name = "AccountManagment API LICX",
+    Url = new Uri("https://example.com/license"),
+}
 
                 });
 
