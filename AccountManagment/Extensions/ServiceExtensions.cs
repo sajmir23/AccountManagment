@@ -150,7 +150,7 @@ namespace AccountManagment.Extensions
                     {
                         Name = "Saimir Kokoshi",
                         Email = "sajmir.kokoshi16@gmail.com",
-                        Url = new Uri("https://www.youtube.com/watch?v=Zgi3RjJwXkQ&list=RDMMZgi3RjJwXkQ&start_radio=1"),
+                        Url = new Uri("https://example.com/license"),
                     },
                     License = new OpenApiLicense
                     {
